@@ -8,7 +8,7 @@
 This app is designed for the user to click on the question and receive an answer
 
 ### App Walk-though
-<img src="https://imgur.com/ObqURJg" width=200><br>
+<img src="https://imgur.com/a/zZVAoie" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
