@@ -8,4 +8,5 @@
     <color name="question_txtcolor">#FFBD69</color>
     <color name="answer_bgcolor">#E9E1CC</color>
     <color name="answer_txtcolor">#B21F66</color>
+    <color name="wrong_answer">#FF0000</color>
 </resources>

@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Antonio Dinkins Flashcard App</string>
-    <string name="question">Who was the Heisman Trophy winner in 2019-2020?</string>
+    <string name="question">Who was the Heisman Trophy winner in 2019&#8211;2020?</string>
     <string name="answer">Joe Burrow</string>
+    <string name="choice1">Justin Herbert</string>
+    <string name="choice2">Jalen Hurts</string>
+    <string name="choice3">Joe Burrow</string>
+    <string name="new_question_hint">Enter Your Question</string>
+    <string name="new_answer_hint">Enter Your Answer</string>
 </resources>
