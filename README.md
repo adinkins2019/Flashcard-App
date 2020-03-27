@@ -11,6 +11,12 @@ You can view the second walkthrough of the application on Imgur. Here is the url
 
 I've created the third iteration of the flashcard application. It will be listed in the Lab3_README.md files and will also be included at the beginning of the Lab1_README.md document. Lab1_README.md is more like a journal, documenting each step along the way, from creation to a finished product. In the coming days, I will included a fourth update as well.
 
+Thursday March 26, 2020. I've made some changes to the flashcard app to include a Toast and a Snackbar notification as well as to add editing functionality. I will be adding an updated version of the flashcard app with the added changes later.  The modifications have already been notated on Lab2_README.md and Lab1_README.md.
+
+## TODO
+## Include Updated Walkthrough url
+You can view the updated version of the walkthrough at <a href="">this web page</a> and it is also included in Lab1_README.md and Lab2_README.md
+
 ## TODO 
 ## Update walkthrough url
 You can view the third walkthrough on Imgur. Here is the url: <a href="">Click Here!</a>
