@@ -1,10 +1,14 @@
 ## Lab 2
 
 ### App Description
+An updated version of the Lab 2 version of the flashcard app has been made as of 3/26/2020. Included in the app walkthrough is an updated version of the app
 This is the second iteration of the Flashcard app. In this iteration, I added a second view to update the question and answer. 
 
 ### App Walk-though
-<img src="./flashcard_app_gif2.gif" width=200><br>
+First iteration: <img src="./flashcard_app_gif2.gif" width=200><br>
+## TODO
+## Add url for second iteration
+Second iteration: <img src=""><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
