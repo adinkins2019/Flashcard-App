@@ -13,9 +13,7 @@ I've created the third iteration of the flashcard application. It will be listed
 
 Thursday March 26, 2020. I've made some changes to the flashcard app to include a Toast and a Snackbar notification as well as to add editing functionality. I will be adding an updated version of the flashcard app with the added changes later.  The modifications have already been notated on Lab2_README.md and Lab1_README.md.
 
-## TODO
-## Include Updated Walkthrough url
-You can view the updated version of the walkthrough at <a href="">this web page</a> and it is also included in Lab1_README.md and Lab2_README.md
+You can view the updated version of the walkthrough at <a href="https://imgur.com/a/yUyqNBy">this web page</a> and it is also included in Lab1_README.md and Lab2_README.md
 
 ## TODO 
 ## Update walkthrough url
