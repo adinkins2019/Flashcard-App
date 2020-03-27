@@ -4,10 +4,14 @@
 ## Lab 2
 
 ### App Description
+An updated version of the Lab 2 version of the flashcard app has been made as of 3/26/2020. Included in the app walkthrough is an updated version of the app
 This is the second iteration of the Flashcard app. In this iteration, I added a second view to update the question and answer. 
 
 ### App Walk-though
-<img src="./flashcard_app_gif2.gif" width=200><br>
+First iteration: <img src="./flashcard_app_gif2.gif" width=200><br>
+## TODO
+## Add url for second iteration
+Second iteration: <img src=""><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
@@ -17,9 +21,9 @@ This is the second iteration of the Flashcard app. In this iteration, I added a 
 - [X] Push your progress to GitHub!
 
 ## Optional
-- [ ] User can edit a card
-- [ ] An error message is shown if the user doesn't enter both a Question and an Answer
-- [ ] A notification is shown if the card was created successfully
+- [X] User can edit a card
+- [X] An error message is shown if the user doesn't enter both a Question and an Answer
+- [X] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
 
@@ -40,6 +44,6 @@ This app is designed for the user to click on the question and receive an answer
 ## Optional
 - [X] toggle the flashcard between the question side and the answer side
 - [X] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
-   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
+- [X] Add selectable multiple choice answers beneath the card
+- [X] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
 - [ ] Further customize and style the card
