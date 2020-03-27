@@ -8,7 +8,7 @@ This is the second iteration of the Flashcard app. In this iteration, I added a 
 First iteration: <img src="./flashcard_app_gif2.gif" width=200><br>
 ## TODO
 ## Add url for second iteration
-Second iteration: <img src="./flashcard_app_lab2v2.gif"><br>
+Second iteration: <img src="./flashcard_applab2v2.gif"><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
