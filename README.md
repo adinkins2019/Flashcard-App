@@ -19,7 +19,4 @@ You can view the third walkthrough on Imgur. Here is the url: <a href="https://i
 
 I've created the fourth iteration of the flashcard application. It will be listed in the Lab4_README.md file and will also be included at the beginning of the Lab1_README.md document.  
 
-## TODO
-## Update walkthrough url for Lab4
-
-You can view the fourth iteration of the flashcard application here on Imgur: <a href="">Click Here!</a>
+You can view the fourth iteration of the flashcard application here on Imgur: <a href="https://imgur.com/a/Y7IQVAT">Click Here!</a>
