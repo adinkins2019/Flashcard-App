@@ -45,7 +45,7 @@
         android:text="@string/choice2"
         android:textAlignment="center"
         android:textColor="@color/answer_txtcolor"
-        android:textSize="40sp"
+        android:textSize="20sp"
         android:textStyle="bold" />
 
     <TextView
@@ -53,14 +53,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/txtQuestion"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="125dp"
         android:background="@color/question_txtcolor"
         android:paddingTop="10sp"
         android:paddingBottom="10sp"
         android:text="@string/choice1"
         android:textAlignment="center"
         android:textColor="@color/answer_txtcolor"
-        android:textSize="40sp"
+        android:textSize="20sp"
         android:textStyle="bold" />
 
     <TextView
@@ -75,24 +75,47 @@
         android:text="@string/choice3"
         android:textAlignment="center"
         android:textColor="@color/answer_txtcolor"
-        android:textSize="40sp"
+        android:textSize="20sp"
         android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/toggleChoicesVisibility"
-        android:layout_width="93dp"
-        android:layout_height="104dp"
+        android:layout_width="60dp"
+        android:layout_height="71dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         app:srcCompat="@drawable/hide_answers" />
 
     <ImageView
         android:id="@+id/btnAdd"
-        android:layout_width="98dp"
-        android:layout_height="109dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         app:srcCompat="@drawable/add_flashcard" />
 
+    <ImageView
+        android:id="@+id/btnNext"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/txtQuestion"
+        app:srcCompat="@drawable/next_button"
+        />
+
+    <ImageView
+        android:id="@+id/btnEdit"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        app:srcCompat="@drawable/edit_button" />
+
+    <ImageView
+        android:id="@+id/btnDelete"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/txtQuestion"
+        app:srcCompat="@drawable/delete_button" />
 
 </RelativeLayout>
